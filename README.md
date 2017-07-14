@@ -13,7 +13,7 @@ A fresh Windows isn't entirely ready for modern development, but all the tools y
 Below, you can see the all the things I need to actually go and work on stuff. If you like all those things, you can automate the installation thanks to the magic of [Boxstarter](http://boxstarter.org/). Simply start PowerShell as Administrator and run:
 
 ```
-START http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/felixrieseberg/windows-development-environment/master/boxstarter
+START http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/mark-walle/windows-development-environment/master/boxstarter
 ```
 
 ## The Goods
@@ -122,11 +122,11 @@ cinst Atom
 cinst visualstudiocode
 ```
 
-##### Visual Studio 2015
-If you already own Visual Studio, you should obviously install the version you bought with your precious money. If you don't, do know that Visual Studio 2015 Community Edition is free (for [most people](https://www.visualstudio.com/support/legal/dn877550)).
+##### Visual Studio 2017
+If you already own Visual Studio, you should obviously install the version you bought with your precious money. If you don't, do know that Visual Studio 2017 Community Edition is free (for [most people](https://www.visualstudio.com/support/legal/dn877550)).
 
 ```
-cinst visualstudio2015community
+cinst visualstudio2017community
 ```
 
 #### Ruby
